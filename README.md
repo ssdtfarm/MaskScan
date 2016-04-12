@@ -16,12 +16,12 @@ Options:
   
   -t TXT, --txt=TXT     -t Filepath(.txt)
   
-  -e EXCEL, --excel=EXCEL
+  -e EXCEL, --excel=EXCEL   -e Filepath(.xls)
   
-                        -e Filepath(.xls)
-                        
-  -v VULNERABILITY, --vulnerability=VULNERABILITY
+  -v VULNERABILITY, --vulnerability=VULNERABILITY   -v all
   
-                       -v all
+漏扫检测脚本存放在script目录下.
+
+
 
 
